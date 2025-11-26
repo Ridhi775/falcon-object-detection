@@ -2,18 +2,18 @@
 
 We would like to thank the following individuals for their contributions to this project.
 
-* **Varun**
-    * GitHub Username: `ChiguruVarun`
+* **Ridhi**
 
-* **Shivaraj**
-    * GitHub Username: `G-Shivaraj`
+* **Sidhi**
  
-* **Taufeeq**
-    * GitHub Username: `TaufeeqAhmad933`
+* **Priyanshi**
 
-* **Subbarayudu**
-    * GitHub Username: `Subbu46`
+* **Saurav**
 
+  * **Sakshi**
+ 
+  * **Om**
+    
 ## Contributors / Reviewers
 
 - Maazsyedm
