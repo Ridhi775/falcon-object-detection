@@ -6,7 +6,7 @@ We would like to thank the following individuals for their contributions to this
 
 * **Sidhi**
  
-* **Priyanshi**
+* **Priyanshu**
 
 * **Saurav**
 
